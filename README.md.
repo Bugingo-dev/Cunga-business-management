@@ -1,0 +1,14 @@
+# CUNGA — Business Management System
+
+A business management system built with PHP, MySQL, HTML, CSS and JavaScript.
+
+## Modules
+- User authentication
+- Dashboard
+- Inventory management
+- Sales and customers
+- Expense tracking
+- Financial reports
+
+## Status
+Project under development.
